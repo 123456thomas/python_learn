@@ -1,0 +1,10 @@
+#header:{width:1200px;
+	margin: 0 auto;}
+ul:{width: 600px;
+	margin: 0 auto;}
+li:{display: inline-block;
+	widows: 150px;
+	text-align: center;
+	background-color: lightblue;
+	line-height: 60px;
+	list-style: none;}
